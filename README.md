@@ -1,6 +1,6 @@
-# Submission Package — Traffic Demand Prediction
+Traffic Demand Prediction
 
-This folder contains the prediction file and source code necessary to reproduce the results submitted for the Traffic Demand Prediction competition.
+This Repo contains the prediction file and source code necessary to reproduce the results submitted for the Traffic Demand Prediction competition.
 
 Contents
 - submission.csv — Final prediction file (Index, demand)
